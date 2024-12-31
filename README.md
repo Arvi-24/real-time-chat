@@ -6,14 +6,7 @@ This is a simple WebSocket-based chat application where clients can connect to a
 
 1. Ensure you have [Node.js](https://nodejs.org/) installed on your system.
 
-2. Clone this repository:
-
-   ```bash
-   git clone https://github.com/ravikr88/websocket-chat.git
-
-   ```
-
-3. get the server.js running and spawn clients by running terminalClient.js
+2. get the server.js running and spawn clients by running terminalClient.js
 
 ## To send a message from client with UID 1 to client with UID 2:
 
